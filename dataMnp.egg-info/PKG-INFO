@@ -1,3 +1,21 @@
+Metadata-Version: 2.1
+Name: dataMnp
+Version: 0.1.0
+Summary: A comprehensive library for data preprocessing tasks
+Home-page: https://github.com/mudar123t/DataAnalyse
+Author: Mudar Shawakh
+Author-email: shawakhmudar@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: nltk
+
 DataAnalyse is a comprehensive Python library for data preprocessing tasks. 
 It provides a set of functions and classes for handling missing values, outliers,
 text manipulation, feature engineering, data type conversion, categorical encoding,
